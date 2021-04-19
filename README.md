@@ -1,2 +1,2 @@
 # Deep-Learning
-Mise en oeuvre: ANN, CNN, RNN....
+Prédire pour une Banque le type de client succeptible de les quitter.
